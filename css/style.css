@@ -81,7 +81,7 @@ width: 100%;min-height: 500px;
 	padding-top: 30px
 }
 #contact{
-	width: 100%;min-height: 500px;background: url("../../../../Documents/teeloveyou/Banner2.png"); background-repeat: no-repeat;background-position: center center;background-size: cover
+	width: 100%;min-height: 500px;background: url("../images/Banner2.png"); background-repeat: no-repeat;background-position: center center;background-size: cover
 }
 .bong{
 	broder:1px solid gray;width: 100%;min-height: 400px;box-shadow: 5px 5px 5px gray;padding:40px
